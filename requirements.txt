@@ -1,0 +1,2 @@
+# New simulator: Python 3.10+ standard library only. No pip packages required.
+# The original arrow.py separately requires pygame and neat-python.
